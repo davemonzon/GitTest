@@ -1,0 +1,9 @@
+D:\GitTest\GitTest\bin\Debug\GitTest.exe.config
+D:\GitTest\GitTest\bin\Debug\GitTest.exe
+D:\GitTest\GitTest\bin\Debug\GitTest.pdb
+D:\GitTest\GitTest\obj\Debug\GitTest.csprojAssemblyReference.cache
+D:\GitTest\GitTest\obj\Debug\GitTest.Form1.resources
+D:\GitTest\GitTest\obj\Debug\GitTest.Properties.Resources.resources
+D:\GitTest\GitTest\obj\Debug\GitTest.csproj.GenerateResource.cache
+D:\GitTest\GitTest\obj\Debug\GitTest.exe
+D:\GitTest\GitTest\obj\Debug\GitTest.pdb
